@@ -1,44 +1,4 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Syllabus</title>
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" >
-  <link rel="stylesheet" href="/assets/css/styles.css">
-  <link rel="stylesheet" href="https://use.typekit.net/lpi3gnd.css">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-</head>
-  <body class="interior">
-    <main>
-      <header>
-  <small>Fall 2020 // Thursday 10:30&ndash;1:10 // Online</small>
-  <h1><a href="/" />Intro&nbsp;to Web&nbsp;Design</a></h1>
-  <nav>
-  <ul>
-    <li class="mobile-nav"><a>menu</a></li>
-    <div id="menu" class="mobile-hide">
-    
-      <li><a href="/syllabus/" class="active">Syllabus</a></li>
-    
-      <li><a href="/schedule/" >Schedule</a></li>
-    
-      <li><a href="/projects/" >Projects</a></li>
-    
-      <li><a href="/tutorials/" >Tutorials</a></li>
-    
-      <li><a href="/reference/" >Reference</a></li>
-    
-    </div>
-  </ul>
-</nav>
-
-</header>
-
-      <article class="single">
-        <h2 class="event"> Syllabus </h2>
-        <h3 id="general">General</h3>
+I"E_<h3 id="general">General</h3>
 
 <p>This is the syllabus for the <em>Fall 2020</em> class of <em>AVT 217: Intro to Web Design (3 credits)</em>. The instructor is <em>Michael McDermott</em>, can be reached by email at <em>mmcderm8 at gmu dot edu</em>, and can be met with at his <a href="https://calendly.com/michaelmcdermott">virtual office hours</a> on Wednesdays and Fridays from 12–4.</p>
 
@@ -248,10 +208,4 @@
 </ul>
 
 <p>Once the add and drop deadlines have passed, instructors do not have the authority to approve requests from students to add or drop/withdraw late. Requests for late adds (up until the last day of classes) must be made by the student in the School of Art office (or the office of the department offering the course), and generally are only approved in the case of a documented university error (such as a problem with financial aid being processed) , LATE ADD fee will apply. Requests for non-selective withdrawals and retroactive adds (adds after the last day of classes) must be approved by the academic dean of the college in which the student’s major is located. For AVT majors, that is the CVPA Office of Academic Affairs in College Hall.</p>
-
-      </article>
-    </main>
-    <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
-    <script src="/assets/js/main.js" charset="utf-8"></script>
-  </body>
-</html>
+:ET

@@ -1,44 +1,4 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Reference</title>
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" >
-  <link rel="stylesheet" href="/assets/css/styles.css">
-  <link rel="stylesheet" href="https://use.typekit.net/lpi3gnd.css">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-</head>
-  <body class="interior">
-    <main>
-      <header>
-  <small>Fall 2020 // Thursday 10:30&ndash;1:10 // Online</small>
-  <h1><a href="/" />Intro&nbsp;to Web&nbsp;Design</a></h1>
-  <nav>
-  <ul>
-    <li class="mobile-nav"><a>menu</a></li>
-    <div id="menu" class="mobile-hide">
-    
-      <li><a href="/syllabus/" >Syllabus</a></li>
-    
-      <li><a href="/schedule/" >Schedule</a></li>
-    
-      <li><a href="/projects/" >Projects</a></li>
-    
-      <li><a href="/tutorials/" >Tutorials</a></li>
-    
-      <li><a href="/reference/" class="active">Reference</a></li>
-    
-    </div>
-  </ul>
-</nav>
-
-</header>
-
-      <article class="single">
-        <h2 class="event"> Reference </h2>
-        <h3 id="websites-useful">Websites, Useful</h3>
+I"^<h3 id="websites-useful">Websites, Useful</h3>
 <ul>
   <li><a href="#">Class Repository - Github</a></li>
   <li><a href="#">Class Repository - Live</a></li>
@@ -85,10 +45,4 @@
   <li><a href="https://www.nytimes.com/interactive/2019/books/summer-reading.html">NYT Summer Reading</a></li>
   <li><a href="https://userinyerface.com/">User Inyerface</a></li>
 </ul>
-
-      </article>
-    </main>
-    <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
-    <script src="/assets/js/main.js" charset="utf-8"></script>
-  </body>
-</html>
+:ET
