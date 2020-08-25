@@ -176,7 +176,7 @@ This week we will cover navigation design and how to make those designs come to 
 
 ---
 
-### Week 10 [10.31]
+### Week 10 [10.29]
 Using CSS we can position elements exactly where we want them to appear on screen or in relation to other elements. This week we will cover four different kinds of positioning and use them to make the browser a drawing tool.
 
 #### Lessons
