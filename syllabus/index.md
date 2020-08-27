@@ -59,7 +59,7 @@ There are many different programs available to use for the work in this class. T
 
 ### Content
 
-This course consists of many shorter exercises, one course long project, quizzes, and discussion board requirements. The exercises begin to familiarize students with specific concepts and ideas and the projects are a synthesis of the concepts and ideas we will cover. Quizzes will review information from the lessons and the discussion board posts will be used for critiques and analysis of relevant topics.
+This course consists of many shorter exercises, a few projects, quizzes, and discussion board requirements. The exercises begin to familiarize students with specific concepts and ideas and the projects are a synthesis of the concepts and ideas we will cover. Quizzes will review information from the lessons and the discussion board posts will be used for critiques and analysis of relevant topics.
 
 #### project 1: linking narrative
 
@@ -76,7 +76,7 @@ A single serve website is comprised of a single page that only does one thing. Y
 
 ### Schedule
 
-The [schedule]({{ site.baseurl }}/schedule/) on this site is an outline of what we will be covering this summer with due dates. It is subject to additions and subtractions.
+The [schedule]({{ site.baseurl }}/schedule/) on this site is an outline of what we will be covering this fall with due dates. It is subject to additions and subtractions.
 
 ### Virtual Meeting Guide
 
