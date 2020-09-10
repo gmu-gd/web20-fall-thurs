@@ -14,16 +14,13 @@ This week we'll start to get to know a bit about each other and spend a little t
 * 1.1: Introduction
 * 1.2: Basic HTML
 
-#### Exercises
+#### Starting
 * E1: [20 Questions]({{ site.baseurl }}/projects#e1)
-
-#### Project
 * P1: [Start]({{ site.baseurl }}/projects/p1)
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 1&ndash;5](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
 * _Interneting is Hard:_ [Introduction](https://www.internetingishard.com/html-and-css/introduction/) &amp; [Basic Web Pages](https://www.internetingishard.com/html-and-css/basic-web-pages/)
-
 ---
 
 ### Week 2 [9.3]
@@ -32,14 +29,12 @@ This week we will take a look at the primary visual structure of the web, grids.
 #### Lessons
 * 2.1: Grids &amp; Spacing
 
-#### Exercises
-* E2: Make the Grid <!--[Make the Grid]({{ site.baseurl }}/projects#e2)-->
-* E3: Programmer and Computer <!--[Programmer and Computer]({{ site.baseurl }}/projects#e3)-->
-
-#### Project
-* P1.1: Text chosen
+#### Starting
+* E2: [Make the Grid]({{ site.baseurl }}/projects#e2)
+<!-- * E3: [Programmer and Computer]({{ site.baseurl }}/projects#e3) -->
 
 #### Digital References
+None
 
 ---
 
@@ -51,16 +46,13 @@ This week we'll go a little further into HTML and begin to introduce CSS. We wil
 * 3.2: Links
 * 3.3: External Style Sheets
 
-#### Exercises
-* E4: Organization and Naming <!---[Organization and Naming]({{ site.baseurl }}/projects#e4)-->
-* E5: Site Map <!---[Site Map]({{ site.baseurl }}/projects#e5)-->
-* E6: Wireframes <!---[Wireframes]({{ site.baseurl }}/projects#e6)-->
-
-#### Project
-* P1.2: Content marked up in 10 pages
+#### Starting
+* E3: [Organization and Naming]({{ site.baseurl }}/projects#e3)
+* E4: [Site Map]({{ site.baseurl }}/projects#e4)
+* E5: [Wireframes]({{ site.baseurl }}/projects#e5)
 
 #### Digital References
-* _Learning Web Design:_ [Chapters 6. 11, 12, &amp; 13](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
+* _Learning Web Design:_ [Chapters 6, 11, 12, &amp; 13](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
 * _Interneting is Hard:_ [Links and Images](https://www.internetingishard.com/html-and-css/links-and-images/) &amp; [Hello CSS](https://www.internetingishard.com/html-and-css/hello-css/)
 
 ---
@@ -68,14 +60,14 @@ This week we'll go a little further into HTML and begin to introduce CSS. We wil
 ### Week 4 [9.17]
 Much of the information on the internet is gathered through reading. As designers we want to be able to present that information in a clear and understandable way so this week we are talking about hierarchy and typography.
 
+### Week 4 [9.15]
+Much of the information on the internet is gathered through reading. As designers we want to be able to present that information in a clear and understandable way so this week we are talking about hierarchy and typography.
+
 #### Lessons
 * 4.1: Hierarchy &amp; Typography
 
-#### Exercises
-* E7: Type on Screen I <!--[Type on Screen I]({{ site.baseurl }}/projects#e7)-->
-
-#### Project
-* P1.3: Pages linked together and styled
+#### Starting
+* E6: Type on Screen I <!--[Type on Screen I]({{ site.baseurl }}/projects#e6)-->
 * P2: Start <!--[Start]({{ site.baseurl }}/projects/p1)-->
 
 #### Digital References
@@ -91,12 +83,8 @@ This week we will cover how to add and style images and how to target more speci
 * 5.1: Images
 * 5.2: CSS Selectors
 
-#### Exercises
-* E8: seven-principles.txt <!--[seven-principles.txt]({{ site.baseurl }}/projects#e8)-->
-
-#### Project
-* P1.4: Due
-* P2.1: Content gathered, reference sites, site map, wireframes
+#### Starting
+* E7: seven-principles.txt <!--[seven-principles.txt]({{ site.baseurl }}/projects#e8)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 7, 11, &amp; 12](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
@@ -110,11 +98,8 @@ Responsive design is a key element of designing for the web today. This week we 
 #### Lessons
 * 6.1: Responsive Design
 
-#### Exercises
-* E9: Visualizing Responsiveness <!--[Visualizing Responsiveness]({{ site.baseurl }}/projects#e9)-->
-
-#### Project
-* P2.2: Style board, R1 designs (desktop and mobile)
+#### Starting
+* E8: Visualizing Responsiveness <!--[Visualizing Responsiveness]({{ site.baseurl }}/projects#e9)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 17](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
@@ -129,11 +114,8 @@ Every element in HTML is a rectangular box and the box model will help us unders
 * 7.1: The Box Model
 * 7.2: Floats One
 
-#### Exercises
-* E10: Patterns <!--[Patterns]({{ site.baseurl }}/projects#e10)-->
-
-#### Project
-* P2.3: R2 designs (desktop and mobile)
+#### Starting
+* E9: Patterns <!--[Patterns]({{ site.baseurl }}/projects#e10)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 14 &amp; 15](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
@@ -141,17 +123,14 @@ Every element in HTML is a rectangular box and the box model will help us unders
 
 ---
 
-### Week 8 [10.15]
+### Week 8 [10.13]
 We will continue our discussion on floats and expand what we are able to build using them.
 
 #### Lessons
 * 8.1: Floats Two
 
-#### Exercises
-* E11: Layouts <!--[Layouts]({{ site.baseurl }}/projects#e11)-->
-
-#### Project
-* P2.4: Desktop or mobile version coded, final design refinements
+#### Starting
+* E10: Layouts <!--[Layouts]({{ site.baseurl }}/projects#e11)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 14 &amp; 15](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
@@ -164,11 +143,8 @@ This week we will cover navigation design and how to make those designs come to 
 #### Lessons
 * 9.1: Navigation
 
-#### Exercises
-* E12: Type on Screen II <!--[Type on Screen II]({{ site.baseurl }}/projects#e12)-->
-
-#### Project
-* P2.5: Site refined and responsive
+#### Starting
+* E11: Type on Screen II <!--[Type on Screen II]({{ site.baseurl }}/projects#e12)-->
 * P3: Start
 
 #### Digital References
@@ -182,12 +158,8 @@ Using CSS we can position elements exactly where we want them to appear on scree
 #### Lessons
 * 10.1: Advanced Positioning
 
-#### Exercises
-* E13: CSS Drawing <!--[CSS Drawing]({{ site.baseurl }}/projects#e13)-->
-
-
-#### Project
-* P2.6: Final site refinements
+#### Starting
+* E12: CSS Drawing <!--[CSS Drawing]({{ site.baseurl }}/projects#e13)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 15](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
@@ -201,12 +173,8 @@ So far we have covered how to style pages with CSS but those styles have general
 #### Lessons
 * 11.1: CSS Animations
 
-#### Exercises
-* E14: CSS Animations <!--[CSS Animations]({{ site.baseurl }}/projects#e14)-->
-
-#### Project
-* P2.7: Due
-* P3.1: 3 ideas
+#### Starting
+* E13: Make it Move <!--[CSS Animations]({{ site.baseurl }}/projects#e14)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 18 &amp; 19](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
@@ -219,11 +187,8 @@ HTML and CSS are great for building and styling websites but they are not great 
 #### Lessons
 * 12.1: JavaScript and jQuery
 
-#### Exercises
-* E15: jQuery <!--[jQuery]({{ site.baseurl }}/projects#e15)-->
-
-#### Project
-* P3.2: R1 designed
+#### Starting
+* E14: jQuery <!--[jQuery]({{ site.baseurl }}/projects#e15)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 21 &amp; 22](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
@@ -236,11 +201,8 @@ Now that we have a basic understanding of JavaScript and jQuery we can take a lo
 #### Lessons
 * 13.1: Plugins
 
-#### Exercises
-* E16: Plugins <!--[Plugins]({{ site.baseurl }}/projects#e16)-->
-
-#### Project
-* P3.3: Coded version
+#### Starting
+* E15: Plugins <!--[Plugins]({{ site.baseurl }}/projects#e16)-->
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 21 &amp; 22](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
@@ -258,11 +220,8 @@ The final week to review any odds and ends.
 #### Lessons
 * None
 
-#### Exercises
-* None
-
-#### Project
-* P3.4: Due
+#### Starting
+* Nothing
 
 #### Digital References
 * None
