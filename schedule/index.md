@@ -60,9 +60,6 @@ This week we'll go a little further into HTML and begin to introduce CSS. We wil
 ### Week 4 [9.17]
 Much of the information on the internet is gathered through reading. As designers we want to be able to present that information in a clear and understandable way so this week we are talking about hierarchy and typography.
 
-### Week 4 [9.15]
-Much of the information on the internet is gathered through reading. As designers we want to be able to present that information in a clear and understandable way so this week we are talking about hierarchy and typography.
-
 #### Lessons
 * 4.1: Hierarchy &amp; Typography
 
@@ -79,7 +76,6 @@ Much of the information on the internet is gathered through reading. As designer
 This week we will cover how to add and style images and how to target more specifically with CSS selectors.
 
 #### Lessons
-
 * 5.1: Images
 * 5.2: CSS Selectors
 
