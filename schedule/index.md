@@ -21,6 +21,7 @@ This week we'll start to get to know a bit about each other and spend a little t
 #### Digital References
 * _Learning Web Design:_ [Chapters 1&ndash;5](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
 * _Interneting is Hard:_ [Introduction](https://www.internetingishard.com/html-and-css/introduction/) &amp; [Basic Web Pages](https://www.internetingishard.com/html-and-css/basic-web-pages/)
+
 ---
 
 ### Week 2 [9.3]
