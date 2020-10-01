@@ -96,7 +96,7 @@ Responsive design is a key element of designing for the web today. This week we 
 * 6.1: Responsive Design
 
 #### Starting
-* E8: Visualizing Responsiveness <!--[Visualizing Responsiveness]({{ site.baseurl }}/projects#e9)-->
+* E8: [Visualizing Responsiveness]({{ site.baseurl }}/projects#e8)
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 17](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
