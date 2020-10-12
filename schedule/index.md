@@ -203,7 +203,7 @@ No class, Thanksgiving Break.
 ---
 
 ### Week 15 [12.1]
-We made it to the end! Today our final exercise that we will be creating in class.
+We made it to the end! Today we will complete our final exercise in class.
 
 #### Lessons
 * None
