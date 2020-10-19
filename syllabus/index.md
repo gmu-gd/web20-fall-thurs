@@ -72,7 +72,7 @@ Students will conceptualize, plan, design, and code a multipage website using on
 
 #### project 3: single serve
 
-A single serve website is comprised of a single page that only does one thing. You will come up with a concept and design for a single serve website and then build the website. The concept can be simple or complex but the site must only be a single page and serve a single function. The URL of the site should help explain the concept and the content should help reinforce the URL. If you need a place to look at single serve websites go [here](https://theuselessweb.com/). That website is a single serve website that takes you to other single serve websites. [More information here]({{ site.baseurl }}/projects).
+<!-- A single serve website is comprised of a single page that only does one thing. You will come up with a concept and design for a single serve website and then build the website. The concept can be simple or complex but the site must only be a single page and serve a single function. The URL of the site should help explain the concept and the content should help reinforce the URL. If you need a place to look at single serve websites go [here](https://theuselessweb.com/). That website is a single serve website that takes you to other single serve websites. [More information here]({{ site.baseurl }}/projects). -->
 
 ### Schedule
 
