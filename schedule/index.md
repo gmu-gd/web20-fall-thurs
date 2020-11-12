@@ -155,6 +155,20 @@ Using CSS we can position elements exactly where we want them to appear on scree
 ---
 
 ### Week 11 [11.5]
+No class this week.
+
+#### Lessons
+* None
+
+#### Starting
+* None
+
+#### Digital References
+* None
+
+---
+
+### Week 12 [11.12]
 This week we will cover navigation design and how to make those designs come to life on the web.
 
 #### Lessons
@@ -162,14 +176,13 @@ This week we will cover navigation design and how to make those designs come to 
 
 #### Starting
 * E12: Type on Screen II <!--[Type on Screen II]({{ site.baseurl }}/projects#e12)-->
-* P3: Start
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 6](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
 
 ---
 
-### Week 12 [11.12]
+### Week 13 [11.19]
 So far we have covered how to style pages with CSS but those styles have generally remained static. This week we will expand our skills in CSS and learn how to animate our designs.
 
 #### Lessons
@@ -180,20 +193,6 @@ So far we have covered how to style pages with CSS but those styles have general
 
 #### Digital References
 * _Learning Web Design:_ [Chapters 18 &amp; 19](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
-
----
-
-### Week 13 [11.19]
-HTML and CSS are great for building and styling websites but they are not great at creating interaction or dynamic changes. This is where JavaScript and jQuery come in and this week we will cover some basic concepts of how to add simple interactions to a website.
-
-#### Lessons
-* 11.1: JavaScript and jQuery
-
-#### Starting
-* E14: jQuery <!--[jQuery]({{ site.baseurl }}/projects#e14)-->
-
-#### Digital References
-* _Learning Web Design:_ [Chapters 21 &amp; 22](https://learning-oreilly-com.mutex.gmu.edu/library/view/learning-web-design/9781491960196/lwd5_chapter01.xhtml)
 
 ---
 
